@@ -1,0 +1,6 @@
+The purpose of this project is to better understand the concept of the frequency domain by
+performing simple manipulations on images. 
+This project covers:
+• Implementing Discrete Fourier Transform (DFT) on 1D and 2D signals
+• Performing image derivative
+• Convolution theory
